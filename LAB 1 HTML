@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>First Lab</title>
+</head>
+<body>
+<strong> ISAC</strong><font colour="blue"> 1P02 is </font><em> sweet? </em><br/>
+<img src="https://www.google.com/search?q=horse+images&rlz=1C5CHFA_enCA970CA970&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwiLsfq0nvryAhVUr5UCHYbyAP4Q_AUoAXoECAEQAw&biw=1440&bih=821#imgrc=TFPU1cpLKyx44M" alt= "horse head"/>
+<img src= "http://petslady.com/article/hop-it-bunny-show-jumping-really-thing" alt= "Rabit jumping"/> <br />
+<ol>
+  <li> List One </li>
+  <ul>
+    <li> I like horses! </li>
+    <li> I have a pet Rabbit! </li>
+  </ul>
+  <li> List Two </li>
+</ol>
+<table width= "200" height= "200" border= "1">
+  <tr>
+    <td width= "100" height= "100" > top left </td>
+    <td width= "100" height= "100" > top right </td>
+  </tr>
+  <tr>
+    <td rowspan= "2" height= "100" > Bottom </td>
+  </table>
+</body>
+</html>
