@@ -1,0 +1,9 @@
+#style{
+  font-size: arial;
+  font-variant: capitals;
+}
+#imgborder{
+  border-style: solid;
+  border-color: black;
+  border-width: thick;
+}
