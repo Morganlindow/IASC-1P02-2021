@@ -1,0 +1,10 @@
+body{
+background-color: red
+}
+#headerstyle{
+  color: green;
+  font-style: italic;
+}
+#Liststyle{
+  font-size: 30px;
+}
