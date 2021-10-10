@@ -1,0 +1,36 @@
+body{
+background-color: #007900;
+}
+#header {
+  height: 80px;
+  width: 900px;
+  text-align: center;
+  background-color: #ff0000;
+}
+#p1{
+  height: 50px;
+  width: 400px;
+  position:  fixed;
+  left: 10px;
+  up: 50px;
+  background-color: #ffafab;
+}
+#p2{
+  height: 50px;
+  width: 600px;
+  position: absolute;
+  right: 20px;
+  background-color: #e16b00;
+}
+#body{
+  height: 500px;
+  width: 900px;
+  background-color: #0000ff;
+}
+
+#footer{
+  height: 50px;
+  width: 900px;
+  background-color: #ffff00
+}
+}

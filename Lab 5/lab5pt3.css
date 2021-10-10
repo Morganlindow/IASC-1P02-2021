@@ -1,0 +1,26 @@
+body {
+  background-color: #007900;
+}
+#square{
+  width: 200px;
+  height: 200px;
+  background-color: #0000b6;
+
+}
+#box2{
+  width: 200px;
+  height: 200px;
+  background-color: #ff0000;
+  position: relative;
+    left: 500px;
+
+}
+#box3{
+  width: 200px;
+  height: 200px;
+  background-color: #ffed00;
+  position: absolute;
+    left: 250px;
+    up: 100px;
+
+}

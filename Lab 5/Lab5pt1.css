@@ -1,6 +1,5 @@
 body{
-  background-color: white;
-  text-color: white;
+  
 }
 
 #header{
@@ -8,7 +7,6 @@ body{
   text-align: center;
   background-color: #ff0000;
 }
-
 #leftbody{
   float: center;
   width: 900px;
