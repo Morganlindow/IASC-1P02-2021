@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta content="en-us" http-equiv="Content-Language" />
+		<title>Lab two page one</title>
+	</head>
+	<body>
+<a href="https://brocku.ca"> Click here for link
+</a>
+<a href="Page two.html"> Click here for page two
+</a>
+<a href="#bottom"> click here for bottom of page
+</a>
+<img src= "https://i.pinimg.com/originals/99/1c/6a/991c6a65099c731a52e926a8b6a5ddba.gif" alt="cartoon bunny" />
+<img src= "https://i.pinimg.com/originals/99/1c/6a/991c6a65099c731a52e926a8b6a5ddba.gif" alt="cartoon bunny" />
+<img src= "https://i.pinimg.com/originals/99/1c/6a/991c6a65099c731a52e926a8b6a5ddba.gif" alt="cartoon bunny" />
+<p> <a name= "bottom"> bottom of page
+</a> </p>
+	</body>
+</html>

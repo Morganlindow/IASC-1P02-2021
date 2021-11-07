@@ -1,0 +1,27 @@
+body{
+  background-color: white;
+}
+#wcss{
+  height: 40px;
+  width: 900px;
+  text-align: center;
+  background-color: #000000;
+}
+#Hcss {
+  height: 80px;
+  width: 900px;
+  text-align: center;
+  background-color: #000000;
+}
+#Bcss{
+  height: 1000px;
+  width: 900px;
+  text-align: center;
+  background-color: #fff9ff;
+}
+#Fcss{
+  height: 120px;
+  width: 900px;
+  text-align: center;
+  background-color: #edece7;
+}
