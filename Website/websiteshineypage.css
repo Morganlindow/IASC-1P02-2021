@@ -1,0 +1,37 @@
+#AbtShiney{
+  font-size: 85px;
+  font-weight: bold;
+  text-align: center;
+  float: center;
+  width: 750px;
+  border: 15px solid #003768;
+  padding: 50px;
+  margin: 20px;
+}
+#abtShineycontent{
+  font-size: 20px;
+  text-align: center;
+  float: center;
+  width: 750px;
+  border: 15px solid #003768;
+  padding: 50px;
+  margin: 20px;
+}
+#shineypic{
+  text-align: center;
+  float: center;
+  width: 750px;
+  border: 15px solid #003768;
+  padding: 50px;
+  margin: 20px;
+}
+#abtshineyfoot{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  float: center;
+  width: 750px;
+  border: 15px solid #003768;
+  padding: 50px;
+  margin: 20px;
+}

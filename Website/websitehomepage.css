@@ -1,0 +1,30 @@
+
+#titlehomepage{
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  float: center;
+  width: 750px;
+  border: 15px solid #003768;
+  padding: 50px;
+  margin: 20px;
+}
+
+#titlepagcontent{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  width: 750px;
+  border: 10px solid #003768;
+  padding: 50px;
+  margin: 20px;
+}
+#titlepagefoot{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  width: 750px;
+  border: 10px solid #003768;
+  padding: 50px;
+  margin: 20px;
+}

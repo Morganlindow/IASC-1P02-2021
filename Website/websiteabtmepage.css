@@ -1,0 +1,35 @@
+#Abtme{
+  font-size: 80px;
+  font-weight: bold;
+  text-align: center;
+  width: 750px;
+  border: 10px solid #003768;
+  padding: 50px;
+  margin: 20px;
+}
+
+#abtmecontent{
+  font-size: 20px;
+  text-align: left;
+  width: 750px;
+  border: 10px solid #003768;
+  padding: 50px;
+  margin: 20px;
+}
+#img{
+  font-size: 20px;
+  text-align: center;
+  width: 750px;
+  border: 10px solid #003768;
+  padding: 50px;
+  margin: 20px;
+}
+#abtmepagefoot{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  width:750px;
+  border: 10px solid #003768;
+  padding: 50px;
+  margin: 20px;
+}
